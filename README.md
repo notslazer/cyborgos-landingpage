@@ -1,38 +1,44 @@
-# techfest-cyborg
+# CYBORG.OS — Techfest IIT Bombay Landing Page
 
-This template should help get you started developing with Vue 3 in Vite.
+A responsive, cyborg-themed landing page built for Techfest IIT Bombay's Campus Ambassador Program.
 
-## Recommended IDE Setup
+## 🎨 Design Concept
+Biomechanical aesthetic fusing organic and mechanical elements:
+- Neural interface HUD overlays
+- Chrome + neon cyan/magenta palette
+- Custom cyber cursor
+- Scanline CRT overlay
+- Animated SVG cyborg portrait
+- Glassmorphism cards with HUD brackets
+- Typewriter terminal effects
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🛠 Tech Stack
+- Vue 3 (Composition API + `<script setup>`)
+- Vite
+- Tailwind CSS
+- Custom CSS animations
+- Inline SVG (no external images)
 
-## Recommended Browser Setup
-
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd)
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
+## 🚀 Run Locally
+```bash
 npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
-
-```sh
+## 📦 Build
+```bash
 npm run build
 ```
+
+## 🌐 Live Demo
+
+
+## 📂 Sections
+1. Hero — Animated cyborg portrait + typing terminal
+2. Modules — 6 feature cards (Robotics, Code Wars, AI, Biotech, Aero, Design)
+3. About — Timeline + stats
+4. Contact — Futuristic form with success state
+
+
+## ✅ Responsive
+Fully responsive across mobile, tablet, and desktop. Custom cursor disabled on touch devices.
