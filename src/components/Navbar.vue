@@ -3,7 +3,7 @@ import { ref } from 'vue'
 const menuOpen = ref(false)
 const links = [
   { name: 'HOME', href: '#home' },
-  { name: 'FEATURES', href: '#features' },
+  { name: 'MODULES', href: '#features' },
   { name: 'ABOUT', href: '#about' },
   { name: 'CONTACT', href: '#contact' },
 ]
