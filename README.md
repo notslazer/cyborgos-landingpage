@@ -31,7 +31,7 @@ npm run build
 ```
 
 ## 🌐 Live Demo
-
+[Click Here](https://cyborgos-landingpage.netlify.app/)
 
 ## 📂 Sections
 1. Hero — Animated cyborg portrait + typing terminal
